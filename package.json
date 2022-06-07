@@ -1,0 +1,28 @@
+{
+  "name": "Backend Backend-CI0137",
+  "version": "1.0.0",
+  "description": "Proyecto del curso",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "backend",
+    "ci0137"
+  ],
+  "author": "Yulian Loaiza & Johan Murillo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.5",
+    "sequelize": "^6.20.1",
+    "swagger-autogen": "^2.21.3",
+    "swagger-ui-express": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
