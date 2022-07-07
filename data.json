@@ -1,0 +1,353 @@
+{
+    "animals": [
+        {
+            "id": 0,
+            "name": "Firulais",
+            "images":[],
+            "gender": "Macho",
+            "size": "Pequeño",
+            "years": 2,
+            "description": "Perrito encontrado en abandono, sumamente cariñoso y leal.",
+            "organization": 0,
+            "numberOfViews": 4
+        },
+        {
+            "id": 1,
+            "name": "Coco",
+            "images":[],
+            "gender": "Macho",
+            "size": "Mediano",
+            "years": 4,
+            "description": "Perrito rescatado en condiciones deplorables.",
+            "organization": 1,
+            "numberOfViews": 10
+        },
+        {
+            "id": 2,
+            "name": "Thor",
+            "images":[],
+            "gender": "Macho",
+            "size": "Grande",
+            "years": 6,
+            "description": "Animal encontrado con múltiples lesiones en varias partes de su cuerpo. Actualmente goza de excelente salud y ánimo.",
+            "organization": 2,
+            "numberOfViews": 20
+        },
+        {
+            "id": 3,
+            "name": "Max",
+            "images":[],
+            "gender": "Macho",
+            "size": "Pequeño",
+            "years": 8,
+            "description": "Animal encontrado en condicioness de calle, rescatado por la organización.",
+            "organization": 0,
+            "numberOfViews": 30
+        },
+        {
+            "id": 4,
+            "name": "Leo",
+            "images":[],
+            "gender": "Macho",
+            "size": "Mediano",
+            "years": 10,
+            "description": "Leo es un perrito de una edad avanzada, el cual es sumamente cariñoso con los demás.",
+            "organization": 1,
+            "numberOfViews": 60
+        },
+        {
+            "id": 5,
+            "name": "Rocky",
+            "images":[],
+            "gender": "Macho",
+            "size": "Grande",
+            "years": 1,
+            "description": "Perrito sumamente social con los demás animales, es sociable y es una gran compañía para el hogar.",
+            "organization": 2,
+            "numberOfViews": 80
+        },
+        {
+            "id": 6,
+            "name": "Toby",
+            "images":[],
+            "gender": "Macho",
+            "size": "Pequeño",
+            "years": 3,
+            "description": "Toby se encuentra buscando un hogar en el cual se le brinde las comodidades que se merece.",
+            "organization": 0,
+            "numberOfViews": 200
+        },
+        {
+            "id": 7,
+            "name": "Simba",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Mediano",
+            "years": 5,
+            "description": "Simba es una perrita de excelentes costumbres, cariñosa y juguetona.",
+            "organization": 1,
+            "numberOfViews": 105
+        },
+        {
+            "id": 8,
+            "name": "Laica",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Grande",
+            "years": 7,
+            "description": "Debido a su edad, Laica es una perrita ideal para adultos. Es una combinación de diversión y a la vez tranquilidad.",
+            "organization": 2,
+            "numberOfViews": 205
+        },
+        {
+            "id": 9,
+            "name": "Niebla",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Pequeño",
+            "years": 9,
+            "description": "Perrita sumamente tranquila debido a su edad avanzada. Excelente compañía para todas las personas del hogar.",
+            "organization": 0,
+            "numberOfViews": 310
+        },
+        {
+            "id": 10,
+            "name": "Perla",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Mediano",
+            "years": 10,
+            "description": "Perla se encuentra buscando un hogar en el cual vivir tranquila, en el cual reciba el mismo amor que brinda a los demás.",
+            "organization": 1,
+            "numberOfViews": 99
+        },
+        {
+            "id": 11,
+            "name": "Chucho",
+            "images":[],
+            "gender": "Macho",
+            "size": "Grande",
+            "years": 1,
+            "description": "Chucho es un perrito ideal para niños. Debido a su edad, posee una gran energía y personalidad juguetona.",
+            "organization": 2,
+            "numberOfViews": 217
+        },
+        {
+            "id": 12,
+            "name": "Lucky",
+            "images":[],
+            "gender": "Macho",
+            "size": "Pequeño",
+            "years": 2,
+            "description": "Lucky es un animal hogareño y de tamaño pequeño, ideal para hogares con un espacio de jardín reducido, siempre y cuando cumpla con las condiciones mínimas.",
+            "organization": 0,
+            "numberOfViews": 312
+        },
+        {
+            "id": 13,
+            "name": "Dana",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Mediano",
+            "years": 9,
+            "description": "Perrita adulta y de avanzada edad con una personalidad bastante tranquila y amigable.",
+            "organization": 1,
+            "numberOfViews": 420
+        },
+        {
+            "id": 14,
+            "name": "Jacky",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Grande",
+            "years": 2,
+            "description": "Ideal tanto para compañía como para protección del hogar. Es sumamente cariñosa y debido a su tamaño, a la vez imponente.",
+            "organization": 2,
+            "numberOfViews": 110
+        },
+        {
+            "id": 15,
+            "name": "Noa",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Pequeño",
+            "years": 7,
+            "description": "Perrito adorable. Le encanta jugar con las personas y salir de paseo.",
+            "organization": 0,
+            "numberOfViews": 800
+        },
+        {
+            "id": 16,
+            "name": "Bimbo",
+            "images":[],
+            "gender": "Macho",
+            "size": "Mediano",
+            "years": 5,
+            "description": "Perrito amante de las aventuras, ideal para personas viajeras. Le encanta salir de paseo a parques, playas, etc.",
+            "organization": 1,
+            "numberOfViews": 710
+        },
+        {
+            "id": 17,
+            "name": "Chula",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Grande",
+            "years": 6,
+            "description": "Chula es una compañera ideal para los niños. Cada día demuestra su cariño, protección y afecto hacia ellos.",
+            "organization": 2,
+            "numberOfViews": 615
+        },
+        {
+            "id": 18,
+            "name": "Donut",
+            "images":[],
+            "gender": "Macho",
+            "size": "Pequeño",
+            "years": 12,
+            "description": "Debido a su edad, es sumamente tranquilo. Donut es amante a los dulces.",
+            "organization": 0,
+            "numberOfViews": 619
+        },
+        {
+            "id": 19,
+            "name": "Luna",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Mediano",
+            "years": 4,
+            "description": "A Luna le encantan las caminatas. Debido a su edad, posee bastante energía y lo demuestra con su personalidad juguetona.",
+            "organization": 1,
+            "numberOfViews": 400
+        },
+        {
+            "id": 20,
+            "name": "Kira",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Grande",
+            "years": 5,
+            "description": "Kira es la compañía ideal de cualquier hogar. Le encantan los niños y convive excelente con otros animales.",
+            "organization": 2,
+            "numberOfViews": 190
+        },
+        {
+            "id": 21,
+            "name": "Bimbira",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Pequeño",
+            "years": 3,
+            "description": "Bimbira es una perrita súper graciosa y un genial acompañante de la vida diaria, haciendo reír a la familia constantemente.",
+            "organization": 0,
+            "numberOfViews": 419
+        },
+        {
+            "id": 22,
+            "name": "Gala",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Mediano",
+            "years": 2,
+            "description": "Gala es una perrita amante del jardín. Le encanta correr, las zonas verdes y la naturaleza.",
+            "organization": 1,
+            "numberOfViews": 180
+        },
+        {
+            "id": 23,
+            "name": "Nella",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Grande",
+            "years": 6,
+            "description": "Nella es una perrita encontrada en difíciles condiciones. Afortunadamente, se encuentra con un gran estado de salud y con una gratitud enorme, esperando encontrar un hogar pronto.",
+            "organization": 2,
+            "numberOfViews": 160
+        },
+        {
+            "id": 24,
+            "name": "Lola",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Pequeño",
+            "years": 8,
+            "description": "Debido a su edad y tamaño, Lola es sumamente hogareña y tranquila. Es una compañía excelente.",
+            "organization": 0,
+            "numberOfViews": 202
+        },
+        {
+            "id": 25,
+            "name": "Mía",
+            "images":[],
+            "gender": "Hembra",
+            "size": "Mediano",
+            "years": 9,
+            "description": "Mía es una perrita sumamente leal, demostrará su cariño y afecto desde el primer día en su hogar.",
+            "organization": 1,
+            "numberOfViews": 303
+        },
+        {
+            "id": 26,
+            "name": "Fiyi",
+            "images":[],
+            "gender": "Macho",
+            "size": "Grande",
+            "years": 7,
+            "description": "Fiyi es un perrito tan curioso como su nombre. Cada día sorprende con sus ocurrencias a los miembros de la familia.",
+            "organization": 2,
+            "numberOfViews": 257
+        }
+    ],
+    "organizations":[
+        {
+            "id": 0,
+            "name": "Adopta un amigo",
+            "state": "Alajuela",
+            "phone": "(+506) 8802-2520",
+            "email": "adoptaunamigo@mailinator.com",
+            "description": "Adopta un amigo es un refugio privado fundado en el año 2000, con la capacidad de albergar hasta 200 perritos, siendo la mayoría victimas de maltrato animal, edad avanzada o enfermedades que requieran de atención especial. El refugio, situado en Alajuela, sirve a todo el Valle Central y provee comida, protección, atención médica, y sobre todo una nutrición adecuada. Los tratamientos médicos incluyen cirugías costosas, exámenes de laboratorio, medicamentos, y también atención de seguimiento. Una vez que los animales están sanos; son desparasitados, vacunados, castrados, se les implanta un microchip para su debida identificación y también se les entrena para ser animales sociables. De esta forma, están listos para ser adoptados. Se estima que entre 30-35 animales encuentran hogares permanentes por medio de eventos de adopción que se llevan acabo semanalmente y publicaciones en las redes sociales. A diferencia de otros albergues que hacen énfasis en la adopción, pero llevan acabo procesos de eutanasia a los animales que son inadoptables, Adopta un amigo tiene como misión encontrar hogares permanentes y proporcionar cuidado y protección de por vida para aquellos animales no adoptados. La fundadora y directora Karin Hoad cree que vale la pena salvar la vida de todo perrito, y que todo animal merece una buena calidad de vida. Adopta un amigo es una asociación sin fines de lucro financiado exclusivamente por donaciones.",
+            "images":[]
+        },
+        {
+            "id": 1,
+            "name": "Patas a la obra",
+            "state": "Cartago",
+            "phone": "(+506) 6025-3072",
+            "email": "patasalaobra@mailinator.com",
+            "description": "Fundado a principios de 2017, Patas a la obra es una organización de rescate de animales en la región de Cartago, Costa Rica. Patas a la obra es una organización de rescate de animales sin fines de lucro, dirigida enteramente por voluntarios, incluyendo su junta directiva. Todo el dinero donado va enteramente al bienestar continuo de los animales. El Refugio también recibe un generoso apoyo de una organización caritativa con sede en los EE.UU. llamada Friends of Animals. La meta de Patas a la obra es mejorar el bienestar de perros a través de esfuerzos de rescate, clínicas de esterilización y vacunación de bajo costo, programas de educación y alcance comunitario, con un enfoque de rescate y rehabilitación de perros sin hogar, abandonados y lesionados.",
+            "images":[]
+        },
+        {
+            "id": 2,
+            "name": "Garras & Patas",
+            "state": "Heredia",
+            "phone": "(+506) 7020-8121",
+            "email": "garraspatas@mailinator.com",
+            "description": "Garras & Patas es un centro de salud pública veterinaria, bienestar animal y tenencia responsable de mascotas. Nuestro fin principal es reducir la sobrepoblación de animales callejeros en Heredia y mejorar el vínculo humano-animal para promover una mejor calidad de vida para los ciudadanos heredianos.",
+            "images":[]
+        }
+    ],
+    "successStories":[
+        {
+            "name": "Oyku",
+            "organization": "Adopta un amigo",
+            "description": "Adoptar a Oyku me ha cambiado la vida, me ha hecho más empático con los animales y me ha demostrado el gran amor que tienen.",
+            "author": "Sussan Rojas",
+            "image": ""
+        },
+        {
+            "name": "Waito",
+            "organization": "Patas a la obra",
+            "description": "Decidimos llevarla a casa por que nos habíamos enamorado de ella. Hablé con mi esposo ya que ella es el tipo de perrita que se adopta menos. Las personas creen que es uno quien adopta a los perros, pero ellos son quien nos adoptan. Ella nos hace muy felices, y trae mucha alegría al hogar. No hay duda que ha sido la experiencia más fantástica que hemos tenido.",
+            "author": "Karol Chaves",
+            "image": ""
+        },
+        {
+            "name": "Eros",
+            "organization": "Garras & Patas",
+            "description": "Todo fue demasiado lindo de verdad, es una luz especial para nosotros. Por otra parte, la organización nos brindó toda la ayuda necesaria para la adopción y la adaptación del perrito a nuestro hogar.",
+            "author": "Alejandro Alfaro",
+            "image": ""
+        }
+    ]
+}

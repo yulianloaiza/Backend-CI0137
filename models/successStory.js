@@ -16,7 +16,7 @@ module.exports = (sequelize, DataTypes) => {
         autoIncrement: true,
       },
       images: {
-        //Pendiente todavia. Y solo 1 o varias?
+        //Pendiente todavia. Y solo 1 o varias? / Solo una imagen
       },
       organization: {
         //ForeignKey
@@ -30,19 +30,11 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.STRING(500),
         allowNull: false,
       },
-      createdAt: {
-        type: DataTypes.DATE,
-        field: "created_at",
-      },
-      updatedAt: {
-        type: DataTypes.DATE,
-        field: "updated_at",
-      },
     },
     {
       sequelize,
       timestamps: false,
-      modelName: "successStory",
+      modelName: "SuccessStory",
     }
   );
   return successStory;

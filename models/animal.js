@@ -35,7 +35,6 @@ module.exports = (sequelize, DataTypes) => {
         allowNull: false,
       },
       age: {
-        //TODO pendiente como manejar si no se sabe la edad
         type: DataTypes.INTEGER.UNSIGNED,
         allowNull: false,
       },
@@ -53,14 +52,6 @@ module.exports = (sequelize, DataTypes) => {
       },
       organization: {
         //ForeignKey
-      },
-      createdAt: {
-        type: DataTypes.DATE,
-        field: "created_at",
-      },
-      updatedAt: {
-        type: DataTypes.DATE,
-        field: "updated_at",
       },
     },
     {

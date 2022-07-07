@@ -26,10 +26,10 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.ENUM(
           "San José",
           "Alajuela",
-          "Heredia",
           "Cartago",
-          "Puntarenas",
+          "Heredia",
           "Guanacaste",
+          "Puntarenas",
           "Limón"
         ),
         allowNull: false,
@@ -57,19 +57,11 @@ module.exports = (sequelize, DataTypes) => {
       },
       socialLinks: {
         type: DataTypes.STRING,
-        allowNull: false,
+        allowNull: true,
       },
       description: {
         type: DataTypes.STRING(500),
         allowNull: false,
-      },
-      createdAt: {
-        type: DataTypes.DATE,
-        field: "created_at",
-      },
-      updatedAt: {
-        type: DataTypes.DATE,
-        field: "updated_at",
       },
     },
     {
