@@ -1,0 +1,41 @@
+[
+    {
+      "id": 0,
+      "name": "Centro Municipal de Educación para el Cuido Animal",
+      "state": "Cartago",
+      "phone": "(+506) 2201-8425",
+      "email": "bienestaranimal@muni-carta.go.cr",
+      "description": "Somos el primer Centro Municipal de Cuido Animal de Centro América y el Caribe. CMECA es un centro de salud pública veterinaria, bienestar animal y tenencia responsable de mascotas. Nuestro fin principal es reducir la sobrepoblación de animales callejeros en Cartago y mejorar el vínculo humano-animal para promover una mejor calidad de vida para los ciudadanos cartagineses. Dirección: Cartago, en el distrito de Arenilla, sobre la carretera interamericana, 100 metros antes del parque industrial, en la entrada de Bancrédito, 300 metros oeste, 25 metros norte y 300 metros oeste, continuo al Taller Amigo.",
+      "images": [
+        "https://ci0137.s3.amazonaws.com/mambo-adopciones/organizations/cmeca1.png",
+        "https://ci0137.s3.amazonaws.com/mambo-adopciones/organizations/cmeca2.png",
+        "https://ci0137.s3.amazonaws.com/mambo-adopciones/organizations/cmeca3.png"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Animales de Asís",
+      "state": "Heredia",
+      "phone": "(+506) 8382-5163",
+      "email": "info@animalesdeasis.com ",
+      "description": "We are a private no kill sanctuary founded in 2000 with the capacity to shelter up to 200 dogs and cats, many of whom have been victims of animal abuse or cruelty, are senior animals or have special needs. Unlike other shelters that emphasize adoption but euthanize the un-adoptable, the mission of Animales de Asis is to find forever homes for adoptable animals and to provide lifetime care and shelter for those who are unable to be placed. Founder and Director Karin Hoad believes that every dog and cat’s life is worth saving and that every animal deserves a quality of life. Animales de Asis is a Costa Rican nonprofit association funded exclusively by donations. The sanctuary, located in Alto del Roble in Heredia, serves the entire Central Valley, and provides food, shelter, medical treatment, and most importantly, much needed nurturing. “For me, rescuing animals is not a hobby, it’s not a fad, its a lifestyle. My purpose for living is to change the lives of animals in need —to give them hope, to give them love, to give them care— to give them the family they so deserve.” – Karin Hoad, Founder of Animales de Asis Santuario. Directions: San Rafael, Calle Cerro Dantas.",
+      "images": [
+        "https://ci0137.s3.amazonaws.com/mambo-adopciones/organizations/asis1.png.png",
+        "s3://ci0137/mambo-adopciones/organizations/asis2.png.png",
+        "https://ci0137.s3.amazonaws.com/mambo-adopciones/organizations/asis3.png.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "El Refugio Hogar Animal Costa Ballena",
+      "state": "Puntarenas",
+      "phone": "",
+      "email": "info@elrefugiocostaballena.com",
+      "description": "Fundado a principios de 2017, El Refugio Hogar Animal Costa Ballena es una organización de rescate de animales en la región de Costa Ballena, al sur de Costa Rica. El Refugio es una organización de rescate de animales sin fines de lucro, dirigida enteramente por voluntarios, incluyendo su junta directiva. Todo el dinero donado va enteramente al bienestar continuo de los animales. El Refugio también recibe un generoso apoyo de una organización caritativa 501(c)(3) con sede en los EE.UU. llamada RFriends of Elefugio. (Las donaciones hechas a Friends of El Refugio puede ser deducible de impuestos para los contribuyentes de EE.UU.). La meta de El Refugio es mejorar el bienestar de perros y gatos a través de esfuerzos de rescate, clínicas de esterilización y vacunación de bajo costo, programas de educación y alcance comunitario, con un enfoque de rescate y rehabilitación de perros y gatos sin hogar, abandonados y lesionados. Direcciones: Estamos ubicados 150 metros al suroeste de Repuestos La China en la carretera a Playa Chaman. Desde la carretera principal de la Costanera, la carretera está al sur de Pizza Time y Uvita Storage y al norte de La Jungla y El Colono. Después de doblar de la Costanera hacia la playa, pasar por Repuestos La China, y estamos en la primera esquina.",
+      "images": [
+        "https://ci0137.s3.amazonaws.com/mambo-adopciones/organizations/costa1.png",
+        "https://ci0137.s3.amazonaws.com/mambo-adopciones/organizations/costa2.jpg",
+        "https://ci0137.s3.amazonaws.com/mambo-adopciones/organizations/costa3.png"
+      ]
+    }
+]

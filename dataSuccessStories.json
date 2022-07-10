@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Oyku",
+    "organization": "El Refugio Hogar Animal Costa Ballena",
+    "description": "Adoptar a Oyku me ha cambiado la vida, me ha hecho más empático con los animales y me ha demostrado el gran amor que tienen.",
+    "author": "Sussan Rojas",
+    "image": "https://ci0137.s3.amazonaws.com/mambo-adopciones/successStories/he-0.jpeg"
+  },
+  {
+    "name": "Esteban",
+    "organization": "Centro Municipal de Educación para el Cuido Animal",
+    "description": "Decidimos llevarla a casa por que nos habíamos enamorado de ella. Hablé con mi esposo ya que ella es el tipo de perrita que se adopta menos. Las personas creen que es uno quien adopta a los perros, pero ellos son quien nos adoptan. Ella nos hace muy felices, y trae mucha alegría al hogar. No hay duda que ha sido la experiencia más fantástica que hemos tenido.",
+    "author": "Karina Rodríguez",
+    "image": "https://ci0137.s3.amazonaws.com/mambo-adopciones/successStories/he-1.webp"
+  },
+  {
+    "name": "Eros",
+    "organization": "Animales de Asís",
+    "description": "Todo fue demasiado lindo de verdad, es una luz especial para nosotros. Por otra parte, la organización nos brindó toda la ayuda necesaria para la adopción y la adaptación del perrito a nuestro hogar.",
+    "author": "Alejandro Castro",
+    "image": "https://ci0137.s3.amazonaws.com/mambo-adopciones/successStories/he-2.webp"
+  }
+]

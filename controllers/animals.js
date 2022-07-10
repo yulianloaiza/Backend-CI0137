@@ -1,4 +1,6 @@
-exports.createOrganization = async (req, res) => {
+const listAnimals = require("../dataAnimals.json");
+
+exports.createAnimal = async (req, res) => {
     // #swagger.tags = ['Animal']
     /*  #swagger.parameters['obj'] = {
             in: 'body',
@@ -11,11 +13,19 @@ exports.createOrganization = async (req, res) => {
       res.json(animalPayload);
     } catch (error) {
       res.status(500).json({
-        message: "Ocurrió un error al insertar la organización.",
+        message: "Ocurrió un error al insertar el animal.",
         error,
       });
       return;
     }
   };
 
-  exports.get
+  exports.listAnimals = async (req, res) => {
+    // #swagger.tags = ['Animal']}
+    try {
+      const result = listAnimals;
+      res.json(listAnimals);
+    } catch (error) {
+      res.status(500).send("GET error on Animals: " + error);
+    }
+  }

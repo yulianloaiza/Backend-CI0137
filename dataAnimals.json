@@ -1,0 +1,407 @@
+[
+  {
+    "id": 0,
+    "name": "Catalina",
+    "images": [
+      "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/SQif8hGoA6PNTFUsqV5sEpUbUBU=/800x800/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/STCTNNN5SBCQ7L34YV7WD36APA.jpg",
+      "https://katu.com/resources/media/df33d1bc-1d28-4d0e-aad7-cfcc75ea551c-large1x1_YamhillHonoraryK91.jpg",
+      "https://www.kanosak.com/wp-content/uploads/2020/01/IMG_3780-800x800.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Mediano",
+    "years": 2,
+    "description": "Fuimos hasta la parte sur del país para rescatar a esta hermosa chica. Una de sus piernitas traseras estaba muy dañada, por lo que la recomendación del veterinario fue amputarla para que Caty sobreviviera. Ahora, sin dolor, es mucho más feliz y más activa. Ahora Cata tiene una segunda oportunidad por una mejor vida en Territorio de Zaguates y esperamos que encuentre una familia que la ame pronto!",
+    "organization": "Centro Municipal de Educación para el Cuido Animal",
+    "numberOfViews": 4
+  },
+  {
+    "id": 1,
+    "name": "Max",
+    "images": [
+      "https://i0.wp.com/www.servicedogsuk.org/wp-content/uploads/2022/02/BenjiSponsorMe-1.jpg?fit=800%2C800&ssl=1",
+      "https://d2zp5xs5cp8zlg.cloudfront.net/image-35477-800.jpg",
+      "http://dukecancerinstitute.org/sites/default/files/styles/paragraph_hero_800x800/public/content-images/Ruby%20Cover%20.png?itok=WtfNFeBb"
+    ],
+    "gender": "Macho",
+    "size": "Grande",
+    "years": 4,
+    "description": "Max es un perrito muy calmado, y reconocido por hacer amistades con los visitantes del territorio muy rápidamente. Ha estado en el territorio por tres años y se lleva muy bien con humanos y los animales del territorio. Su sonrisa y el las ganas de jugar rápidamente le dicen a la persona que es un perro inofensivo, aunque su tamaño sea grande.",
+    "organization": "Animales de Asís",
+    "numberOfViews": 10
+  },
+  {
+    "id": 2,
+    "name": "Clifford Federico",
+    "images": [
+      "https://d2zp5xs5cp8zlg.cloudfront.net/image-32958-800.jpg",
+      "https://imageserver.petsbest.com/marketing/blog/meeting-new-dogs.jpg",
+      "https://thumbs.dreamstime.com/b/vector-black-white-illustration-dog-face-vector-black-white-illustration-dog-face-isolated-white-background-172961859.jpg"
+    ],
+    "gender": "Macho",
+    "size": "Grande",
+    "years": 6,
+    "description": "Clifford es un perrito que le encanta jugar, ir a caminar y comer alimento y hasta verduras! Le encanta ser el centro de atención y el color del pelo lo diferencia de los otros perritos en la organización.",
+    "organization": "El Refugio Hogar Animal Costa Ballena",
+    "numberOfViews": 20
+  },
+  {
+    "id": 3,
+    "name": "Elsa ",
+    "images": [
+      "https://icalmpet.com/wp-content/uploads/iCalm-Pet-Solutions-Dog.jpg",
+      "https://img.tvc-mall.com/uploads/scenes/C0009078-1.jpg",
+      "https://my-test-11.slatic.net/p/09fef9254c07768b29a01cc711c20567.png"
+    ],
+    "gender": "Hembra",
+    "size": "Pequeño",
+    "years": 8,
+    "description": "Woof! Soy Elsa, soy muy buena escuchando y me encanta acurrucarme. Soy un poco tímida pero muy dulce también. Puedo ser parte de tu familia?",
+    "organization": "Centro Municipal de Educación para el Cuido Animal",
+    "numberOfViews": 30
+  },
+  {
+    "id": 4,
+    "name": "Tommy",
+    "images": [
+      "https://petapixel.com/assets/uploads/2022/06/Breathtaking-Photos-of-Airborne-Dogs-Highlighted-by-Colorful-Holi-Paint07-800x800.jpg",
+      "https://thumbs.dreamstime.com/b/australian-shepherd-dog-breed-digital-art-illustration-isolated-white-aussie-medium-sized-breed-dog-black-white-color-158920038.jpg",
+      "https://petapixel.com/assets/uploads/2022/06/Breathtaking-Photos-of-Airborne-Dogs-Highlighted-by-Colorful-Holi-Paint07-800x800.jpg"
+    ],
+    "gender": "Macho",
+    "size": "Mediano",
+    "years": 10,
+    "description": "Hola, mi nombre es Tommy. Yo era perrito de calle y muy flaco cuando El Refugio me encontró. Mi anterior familia adoptiva decía esto de mí: ¡soy una alegría! Poco exigente pero sin embargo me encanta acurrucarme. Y cuido a mi familia. No pido mucho, solo quiero estar cerca y abrazarme de vez en cuando. Adoro las caricias en el vientre. Sueño con una vida discreta en la que se me permita estar en la casa todo el día y donde esté mi familia. Eso es realmente todo lo que quiero. Me encantan los visitantes y soy muy amigables con ellos. No soy autoritario. Estoy un poco demasiado entusiasmado con los gatos. Aprendo con el paso del tiempo, por ejemplo, ya no reacciono a los sonidos con los que me he familiarizado. También estoy aprendiendo a jugar bien, a veces me emociono demasiado, pero soy inteligente y estoy aprendiendo. Tengo una discapacidad leve en la que camino un poco torcido, pero todavía puedo caminar, correr y jugar. Me gusta quedarme cerca de mis humanos, así que nunca me alejo mucho, y estoy atento para ver dónde están. No me gusta mojarme. Mantengo una amplia circunferencia de la piscina y la manguera. De todos modos, soy una persona hogareña. ¿Puedo ser parte de tu familia? No puedo esperar para conocerte. Abrazos, Tommy. Tommy fue adoptado el año pasado, pero su humano era anciano y ya no podía cuidarlo. Tommy está de vuelta en nuestro refugio. Es un buen perro y merece un hogar extra especial.",
+    "organization": "Animales de Asís",
+    "numberOfViews": 60
+  },
+  {
+    "id": 5,
+    "name": "Amore",
+    "images": [
+      "https://www.dogstrust.org.uk/dogimages/1120385_ginger_20220427084245_ginger-summer-pic_800.jpg",
+      "https://cdn6.bigcommerce.com/s-irxdkj2qs2/product_images/uploaded_images/new-yorkshire-terrier.jpg",
+      "https://cdn6.bigcommerce.com/s-irxdkj2qs2/product_images/uploaded_images/new-yorkshire-terrier.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Pequeña",
+    "years": 1,
+    "description": "Guau! Soy la perrita Amore. ¡Soy extra especial porque soy la más dulce del mundo! Pero, también porque tengo algunos problemas neurológicos. A veces tengo temblores y también tengo algunos problemas para caminar. Estoy muy agradecida de haber sido salvada de la tubería de alcantarillado donde me encontraron. Fue frío y aterrador estar sola. Hay algunos seres humanos maravillosos en este mundo, y ellos me rescataron, ¡gracias! Los amaré por siempre, El Refugio y las familias que me acogen y adoptan. ¡Por favor, adóptame! También estoy disponible para acogida. Necesito una familia extra especial porque yo soy extra especial. Abrazos, amore.",
+    "organization": "El Refugio Hogar Animal Costa Ballena",
+    "numberOfViews": 80
+  },
+  {
+    "id": 6,
+    "name": "Bicho",
+    "images": [
+      "https://fromtheheartdogtraining.com/wp-content/uploads/2020/07/Dog-Training.jpg",
+      "https://thumbs.dreamstime.com/b/perro-de-rottweiler-que-se-sienta-contra-fondo-marr%C3%B3n-116833635.jpg",
+      "https://www.ciaranrottweilers.com/wp-content/uploads/2022/05/Liza-800x800.jpg"
+    ],
+    "gender": "Macho",
+    "size": "Mediano",
+    "years": 3,
+    "description": "Bicho es uno de nuestros perros más viejos, ingresó en el año 2011 con una pata quebrada, en ese momento se le calcularon 4 años, goza de buena salud y en tantos años en el albergue solamente se le han hecho limpiezas dentales. Es un perro mediano-pequeño muy hermoso, su pelaje es largo, su problema es que no con todos los perros se lleva y ataca a los gatos, pero le encantan las personas, es bastante dulce. Esperamos que tenga la oportunidad de conocer el amor de una familia, son muchos años de espera.",
+    "organization": "Centro Municipal de Educación para el Cuido Animal",
+    "numberOfViews": 200
+  },
+  {
+    "id": 7,
+    "name": "Marina",
+    "images": [
+      "https://dogtails.dogwatch.com/wp-content/uploads/2021/03/Luna-GSP-pointerpuppers-Insta-Illinois-800x800.png",
+      "https://dogtails.dogwatch.com/wp-content/uploads/2021/03/Luna-GSP-pointerpuppers-Insta-Illinois-800x800.png",
+      "https://dogtails.dogwatch.com/wp-content/uploads/2021/03/Luna-GSP-pointerpuppers-Insta-Illinois-800x800.png"
+    ],
+    "gender": "Hembra",
+    "size": "Mediano",
+    "years": 5,
+    "description": "Marina viene de la León Xlll un lugar conflictivo y donde abandonan muchos animales, estaba en un lote vacío, una persona se le llevó para su casa pero no podía mantenerlos, y es así como Marina y sus 7 hermosos cachorros llegaron a nuestro albergue, todos los cachorros se adoptaron, solo queda ella, es mediana-grande, pelo corto pero de un color naranja muy bonito, es bastante joven, en el momento de su rescate se le calculo 1 año, a veces un poco tímida pero después está bien , se lleva bien con perros, buscamos una familia responsable y amorosa para ella.",
+    "organization": "Animales de Asís",
+    "numberOfViews": 105
+  },
+  {
+    "id": 8,
+    "name": "Apolonio",
+    "images": [
+      "https://www.goodnewsnetwork.org/wp-content/uploads/2022/03/dog-swns-4.jpg",
+      "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvczY4LXRlZDQwODMtamotMDItbC1qb2I2MTIta3plejNpY2IucG5n.png?s=2HnW6nIsG9Foo9KqSFwILXcnw6ASOF0rq7czEnBrqBs",
+      "https://www.goodnewsnetwork.org/wp-content/uploads/2022/03/dog-swns-4.jpg"
+    ],
+    "gender": "Macho",
+    "size": "Grande",
+    "years": 7,
+    "description": "Cuando nos pidieron ayuda para Apolonio, las fotos eran de un perro flaco con las uñas más largas que jamás vimos, es obvio que estaba dentro de una casa o propiedad donde no tenía que caminar, en el 2017 se le calcularon 10 años de edad, No sabemos si se perdió o lo botaron, con la uñas ya sabemos por qué estaban tan largas, para cortarlas necesitamos por lo menos 3 personas por que odia que se las corten, después de eso no tiene ningún problema, cuando llego al albergue se le dio tratamiento de erlichia. Es un perro muy bueno, le encanta que lo toquen, los cachorros son su debilidad los cuida y los defiende como si fueran de el. Apolonio es un perro grande con un corazón de cachorro, merece una buena familia.",
+    "organization": "El Refugio Hogar Animal Costa Ballena",
+    "numberOfViews": 205
+  },
+  {
+    "id": 9,
+    "name": "Marjorie",
+    "images": [
+      "https://breed-assets.wisdompanel.com/dog/street-dog-india/Indian_Street_Dog1.jpg",
+      "https://wgme.com/resources/media/95437679-602d-4dc7-a062-22b3e1f0241a-large1x1_finley1.jpg?1613417523760",
+      "https://nbcmontana.com/resources/media/f0e4e3ce-c1c6-4735-b801-c8ada5e8e7a1-large1x1_4.jpg?1653972639596"
+    ],
+    "gender": "Hembra",
+    "size": "Grande",
+    "years": 9,
+    "description": "Marjorie fue rescatada en Guadalupe, es una perrita muy linda con la mejor intuición de sus alrededores. Puede notar cuando necesitas un abrazo. Es una perrita muy calmada con un corazón muy grande.",
+    "organization": "Centro Municipal de Educación para el Cuido Animal",
+    "numberOfViews": 310
+  },
+  {
+    "id": 10,
+    "name": "Escalibur",
+    "images": [
+      "https://i1.wp.com/www.servicedogsuk.org/wp-content/uploads/2022/01/WinstonSponsorMe.jpeg?fit=800%2C800&ssl=1",
+      "https://petapixel.com/assets/uploads/2017/08/ShainaFishmanFiftyCent-800x800.jpg",
+      "https://www.nationaldayarchives.com/wp-content/uploads/2018/03/3.jpg"
+    ],
+    "gender": "Macho",
+    "size": "Mediano",
+    "years": 10,
+    "description": "Escalibur fue recogido en Sán Nicolás de Cartago. Es un perrito muy ágil e inteligente. Le encanta ir a paseos y jugar. Le gusta mucho estar en el césped y también recibir baños en la tina. Escalibur necesita una casita, tu puedes ser el afortunado en adoptarlo!",
+    "organization": "Animales de Asís",
+    "numberOfViews": 99
+  },
+  {
+    "id": 11,
+    "name": "Grut",
+    "images": [
+      "https://ultra-pet.co.za/wp-content/uploads/2020/06/special-dog-left-800x800-1-800x800.jpg",
+      "https://ultra-pet.co.za/wp-content/uploads/2020/06/premium-dog-right-800x800-1-800x800.jpg",
+      "https://ultra-pet.co.za/wp-content/uploads/2020/06/optiwoof-dog-right-800x800.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Pequeño",
+    "years": 1,
+    "description": "Grut es una bella perrita que se encontró en San Nicolás de Cartago. Siempre está prestando atención a su entorno y le encanta jugar con otros perritos y los cuidadores del refugio. Le gusta jugar en la mañana y en la tarde le encanta dormir, más si hay lluvia! Grut está buscando una casita especial, tal ves podrías ser tú quién le de una oportunidad a una nueva vida.",
+    "organization": "El Refugio Hogar Animal Costa Ballena",
+    "numberOfViews": 217
+  },
+  {
+    "id": 12,
+    "name": "Lucky",
+    "images": [
+      "https://ae01.alicdn.com/kf/H145379989a514395bc1bf8147d4cc503k/Chihuahua-Broken-Glass-Car-Decal-Cute-Pet-Dog-Sticker-Window-Wall-Decoration-3D-Styling13-10cm.jpg_Q90.jpg_.webp",
+      "http://cdn.shopify.com/s/files/1/0275/2475/9617/products/fashion-pet-dogs-clothes-jacket-coat-aut_description-5.jpg?v=1644788257",
+      "https://thumbs.dreamstime.com/b/chihuahua-vector-illustration-small-dog-illustration-small-dog-smooth-haired-large-eyed-chihuahua-vector-eps-160129019.jpg"
+    ],
+    "gender": "Macho",
+    "size": "Pequeño",
+    "years": 2,
+    "description": "Lucky es un animal hogareño y de tamaño pequeño, ideal para hogares con un espacio de jardín reducido, siempre y cuando cumpla con las condiciones mínimas.",
+    "organization": "Centro Municipal de Educación para el Cuido Animal",
+    "numberOfViews": 312
+  },
+  {
+    "id": 13,
+    "name": "Dana",
+    "images": [
+      "https://thumbs.dreamstime.com/b/portrait-belgian-shepherd-malinois-dog-outdoors-portrait-purebred-belgian-shepherd-malinois-dog-outdoors-167384019.jpg",
+      "https://thumbs.dreamstime.com/b/belgian-shepherd-dog-malinois-%CB%88m%C3%A6l%C9%A8nw%C9%91%CB%90-breed-sometimes-classified-as-variety-33967592.jpg",
+      "http://sc04.alicdn.com/kf/Hbee035ed7c0445bfa46709291f121e9de.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Mediano",
+    "years": 9,
+    "description": "Perrita adulta y de avanzada edad con una personalidad bastante tranquila y amigable.",
+    "organization": "Animales de Asís",
+    "numberOfViews": 420
+  },
+  {
+    "id": 14,
+    "name": "Jacky",
+    "images": [
+      "https://thumbs.dreamstime.com/b/graceful-samoyed-puppy-outdoors-obedient-beautiful-graceful-dog-samoyed-sitting-grass-yellow-dandelions-outdoors-104734084.jpg",
+      "https://thumbs.dreamstime.com/b/beautiful-portrait-samoyed-dog-green-background-grass-portrait-funny-young-samoyed-puppy-dog-green-background-104734161.jpg",
+      "https://envato-shoebox-0.imgix.net/956e/7ebd-5b7e-4a16-a03e-136d71f619b2/sam3_12.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=800&s=411ea3e12ce1c755198ba2a9e2475553"
+    ],
+    "gender": "Hembra",
+    "size": "Grande",
+    "years": 2,
+    "description": "Ideal tanto para compañía como para protección del hogar. Es sumamente cariñosa y debido a su tamaño, a la vez imponente.",
+    "organization": "El Refugio Hogar Animal Costa Ballena",
+    "numberOfViews": 110
+  },
+  {
+    "id": 15,
+    "name": "Noa",
+    "images": [
+      "https://thumbs.dreamstime.com/b/tired-shih-tzu-puppy-wearing-bowtie-panting-sitting-white-studio-background-196182043.jpg",
+      "https://thumbs.dreamstime.com/b/confiado-shih-tzu-cachorro-mirando-hacia-adelante-y-sentado-en-el-fondo-amarillo-del-estudio-195512233.jpg",
+      "https://i.pinimg.com/originals/79/b4/02/79b402e417dd667acdb40bb01e62071b.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Pequeño",
+    "years": 7,
+    "description": "Perrito adorable. Le encanta jugar con las personas y salir de paseo.",
+    "organization": "Centro Municipal de Educación para el Cuido Animal",
+    "numberOfViews": 800
+  },
+  {
+    "id": 16,
+    "name": "Bimbo",
+    "images": [
+      "https://thumbs.dreamstime.com/b/blanco-pedigr%C3%AD-con-el-perro-rojo-de-basenji-en-fondo-negro-aislado-111983839.jpg",
+      "https://thumbs.dreamstime.com/b/cute-portrait-adult-male-basenji-begging-basenji-dog-cute-portrait-adult-male-basenji-154096054.jpg",
+      "https://thumbs.dreamstime.com/b/nice-outdoor-portrait-royal-mature-basenji-dog-sitting-proudly-autumnal-ground-looking-camera-portrait-170103559.jpg"
+    ],
+    "gender": "Macho",
+    "size": "Mediano",
+    "years": 5,
+    "description": "Perrito amante de las aventuras, ideal para personas viajeras. Le encanta salir de paseo a parques, playas, etc.",
+    "organization": "Animales de Asís",
+    "numberOfViews": 710
+  },
+  {
+    "id": 17,
+    "name": "Chula",
+    "images": [
+      "https://thumbs.dreamstime.com/b/groenendael-10043219.jpg",
+      "https://thumbs.dreamstime.com/b/perro-pastor-belga-groenendael-con-fondo-negro-aislado-retrato-de-curioso-an%C3%A1lisis-163834020.jpg",
+      "https://thumbs.dreamstime.com/b/six-years-groenendael-running-winter-nice-old-35762776.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Grande",
+    "years": 6,
+    "description": "Chula es una compañera ideal para los niños. Cada día demuestra su cariño, protección y afecto hacia ellos.",
+    "organization": "El Refugio Hogar Animal Costa Ballena",
+    "numberOfViews": 615
+  },
+  {
+    "id": 18,
+    "name": "Donut",
+    "images": [
+      "http://cdn.shopify.com/s/files/1/1143/3588/products/ho-md-bk-800_00c1a5b7-9bb9-484f-93da-f88b3e5aba23.jpg?v=1568788044",
+      "https://www.dogstrust.org.uk/dogimages/1181579_sherbert_20220701042710_20220701_094413000_ios_800.jpg",
+      "https://breed-assets.wisdompanel.com/dog/dachshund/dachshund4.jpg"
+    ],
+    "gender": "Macho",
+    "size": "Pequeño",
+    "years": 12,
+    "description": "Debido a su edad, es sumamente tranquilo. Donut es amante a los dulces.",
+    "organization": "Centro Municipal de Educación para el Cuido Animal",
+    "numberOfViews": 619
+  },
+  {
+    "id": 19,
+    "name": "Luna",
+    "images": [
+      "https://thumbs.dreamstime.com/b/small-miniature-toy-poodle-white-curly-fur-against-background-196254368.jpg",
+      "https://ae01.alicdn.com/kf/Hbf2938402cb046b3aa9c42db2f0fb666K.jpg",
+      "https://ae01.alicdn.com/kf/S630b233e89e640d99aa1098be623a2d77.jpg?width=800&height=800&hash=1600"
+    ],
+    "gender": "Hembra",
+    "size": "Mediano",
+    "years": 4,
+    "description": "A Luna le encantan las caminatas. Debido a su edad, posee bastante energía y lo demuestra con su personalidad juguetona.",
+    "organization": "Animales de Asís",
+    "numberOfViews": 400
+  },
+  {
+    "id": 20,
+    "name": "Kira",
+    "images": [
+      "https://thumbs.dreamstime.com/b/collie-sheepdog-warm-sunny-afternoon-costa-rica-central-america-playing-ball-posing-backyard-garden-nueva-arenal-171158654.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0K2poe6IDu9wVgN82-8CqZQWa07Zb7CNPA&usqp=CAU",
+      "https://thumbs.dreamstime.com/b/collie-rough-dog-breed-isolated-white-pet-loss-digital-art-illustration-cute-hand-drawn-portrait-graphic-clipart-design-242758942.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Grande",
+    "years": 5,
+    "description": "Kira es la compañía ideal de cualquier hogar. Le encantan los niños y convive excelente con otros animales.",
+    "organization": "El Refugio Hogar Animal Costa Ballena",
+    "numberOfViews": 190
+  },
+  {
+    "id": 21,
+    "name": "Bimbira",
+    "images": [
+      "https://pawsomecritters.com/wp-content/uploads/2019/01/furminator-short-hair-deshedding-tool-dogs-extra-small.png",
+      "https://cdn.shopify.com/s/files/1/0576/9386/4120/products/9fd76503d6c80ba02514414b2d52a2c3_800x800.jpg?v=1631288865",
+      "https://cdn6.bigcommerce.com/s-irxdkj2qs2/product_images/uploaded_images/new-yorkshire-terrier.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Pequeño",
+    "years": 3,
+    "description": "Bimbira es una perrita súper graciosa y un genial acompañante de la vida diaria, haciendo reír a la familia constantemente.",
+    "organization": "Centro Municipal de Educación para el Cuido Animal",
+    "numberOfViews": 419
+  },
+  {
+    "id": 22,
+    "name": "Gala",
+    "images": [
+      "https://fordogtrainers.es/images/stories/virtuemart/product/collar-ancho-para-american-stanford-trenzado-clasico-c55.jpg",
+      "https://thumbs.dreamstime.com/b/portrait-brown-american-staffordshire-terrier-amstaff-sitting-american-stafford-dog-perfect-muscular-body-beautiful-206089192.jpg",
+      "https://ae01.alicdn.com/kf/H2fe1bf39667b4e9eb16e3a0e7291c8e4G/Reflective-Stickers-Blue-Pitbull-Car-Sticker-Creative-Torn-Metal-Decal-Waterproof-Car-Styling-Pet-Car-Decoration.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Mediano",
+    "years": 2,
+    "description": "Gala es una perrita amante del jardín. Le encanta correr, las zonas verdes y la naturaleza.",
+    "organization": "Animales de Asís",
+    "numberOfViews": 180
+  },
+  {
+    "id": 23,
+    "name": "Nella",
+    "images": [
+      "https://thumbs.dreamstime.com/b/american-akita-12289972.jpg",
+      "https://thumbs.dreamstime.com/b/young-american-akita-breed-dog-looking-camera-lens-close-up-portrait-head-breeds-to-side-120844612.jpg",
+      "https://ua.all.biz/img/ua/catalog/more/152267824_shchenok_amerikanskaya_akita_kobel_iz_pitomnika.jpeg"
+    ],
+    "gender": "Hembra",
+    "size": "Grande",
+    "years": 6,
+    "description": "Nella es una perrita encontrada en difíciles condiciones. Afortunadamente, se encuentra con un gran estado de salud y con una gratitud enorme, esperando encontrar un hogar pronto.",
+    "organization": "El Refugio Hogar Animal Costa Ballena",
+    "numberOfViews": 160
+  },
+  {
+    "id": 24,
+    "name": "Lola",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhsHWFy2RFGaI2o5M2KUPz3IOOfYzSfLjOQ&usqp=CAU",
+      "https://thumbor.bigedition.com/img/6Xh7RdqqdmDt-rXTrn4MplPY1sQ=/800x800/filters:quality(80)/granite-web-prod/9f/76/9f76c1a15e1d4b96826bdf7e156b7deb.jpg",
+      "https://ae01.alicdn.com/kf/HTB1OmjAXsfrK1Rjy0Fmq6xhEXXaH/Free-Customized-Dog-ID-Tag-Stainless-Steel-for-Small-Dogs-Anti-lost-Dog-Tag-Engraved-Pet.jpg_q50.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Pequeño",
+    "years": 8,
+    "description": "Debido a su edad y tamaño, Lola es sumamente hogareña y tranquila. Es una compañía excelente.",
+    "organization": "Centro Municipal de Educación para el Cuido Animal",
+    "numberOfViews": 202
+  },
+  {
+    "id": 25,
+    "name": "Mía",
+    "images": [
+      "https://thumbs.dreamstime.com/b/belgian-tervuren-belgian-shepherd-dog-herding-breed-dog-digital-art-illustration-isolated-white-background-belgian-origin-159144096.jpg",
+      "https://cdn.shopify.com/s/files/1/0032/9521/5680/products/025_800x.jpg?v=1545125494",
+      "https://thumbs.dreamstime.com/b/puppy-belgian-tervuren-2236886.jpg"
+    ],
+    "gender": "Hembra",
+    "size": "Mediano",
+    "years": 9,
+    "description": "Mía es una perrita sumamente leal, demostrará su cariño y afecto desde el primer día en su hogar.",
+    "organization": "Animales de Asís",
+    "numberOfViews": 303
+  },
+  {
+    "id": 26,
+    "name": "Fiyi",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1733/6579/products/product-image-846913808_800x.jpg?v=1611746011",
+      "https://dogfriendlyscene.co.uk/wp-content/uploads/2021/07/Dobermann.png",
+      "https://img.joomcdn.net/662dd3300c6632f547ef619e920d125a9bca78ba_original.jpeg"
+    ],
+    "gender": "Macho",
+    "size": "Grande",
+    "years": 7,
+    "description": "Fiyi es un perrito tan curioso como su nombre. Cada día sorprende con sus ocurrencias a los miembros de la familia.",
+    "organization": "El Refugio Hogar Animal Costa Ballena",
+    "numberOfViews": 257
+  }
+]

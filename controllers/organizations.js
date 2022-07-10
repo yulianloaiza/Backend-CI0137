@@ -1,3 +1,5 @@
+const listOrganizations = require("../dataOrganizations.json");
+
 exports.createOrganization = async (req, res) => {
   // #swagger.tags = ['Organization']
   /*  #swagger.parameters['obj'] = {
@@ -17,3 +19,13 @@ exports.createOrganization = async (req, res) => {
     return;
   }
 };
+
+exports.listOrganizations = async (req, res) => {
+  // #swagger.tags = ['Organization']}
+  try {
+    const result = listOrganizations;
+    res.json(listOrganizations);
+  } catch (error) {
+    res.status(500).send("GET error on Organizations: " + error);
+  }
+}
