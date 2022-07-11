@@ -3,9 +3,9 @@
     "id": 0,
     "name": "Catalina",
     "images": [
-      "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/SQif8hGoA6PNTFUsqV5sEpUbUBU=/800x800/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/STCTNNN5SBCQ7L34YV7WD36APA.jpg",
-      "https://katu.com/resources/media/df33d1bc-1d28-4d0e-aad7-cfcc75ea551c-large1x1_YamhillHonoraryK91.jpg",
-      "https://www.kanosak.com/wp-content/uploads/2020/01/IMG_3780-800x800.jpg"
+      "https://ci0137.s3.amazonaws.com/mambo-adopciones/animals/0-1.jpeg",
+      "https://ci0137.s3.amazonaws.com/mambo-adopciones/animals/0-2.jpeg",
+      "https://ci0137.s3.amazonaws.com/mambo-adopciones/animals/0-3.jpeg"
     ],
     "gender": "Hembra",
     "size": "Mediano",
@@ -19,9 +19,9 @@
     "id": 1,
     "name": "Max",
     "images": [
-      "https://i0.wp.com/www.servicedogsuk.org/wp-content/uploads/2022/02/BenjiSponsorMe-1.jpg?fit=800%2C800&ssl=1",
-      "https://d2zp5xs5cp8zlg.cloudfront.net/image-35477-800.jpg",
-      "http://dukecancerinstitute.org/sites/default/files/styles/paragraph_hero_800x800/public/content-images/Ruby%20Cover%20.png?itok=WtfNFeBb"
+      "https://ci0137.s3.amazonaws.com/mambo-adopciones/animals/1-1.webp",
+      "https://ci0137.s3.amazonaws.com/mambo-adopciones/animals/1-2.jpeg",
+      "https://ci0137.s3.amazonaws.com/mambo-adopciones/animals/1-3.png"
     ],
     "gender": "Macho",
     "size": "Grande",
@@ -35,9 +35,9 @@
     "id": 2,
     "name": "Clifford Federico",
     "images": [
-      "https://d2zp5xs5cp8zlg.cloudfront.net/image-32958-800.jpg",
-      "https://imageserver.petsbest.com/marketing/blog/meeting-new-dogs.jpg",
-      "https://thumbs.dreamstime.com/b/vector-black-white-illustration-dog-face-vector-black-white-illustration-dog-face-isolated-white-background-172961859.jpg"
+      "https://ci0137.s3.amazonaws.com/mambo-adopciones/animals/2-1.jpeg",
+      "https://ci0137.s3.amazonaws.com/mambo-adopciones/animals/2-2.jpeg",
+      "https://ci0137.s3.amazonaws.com/mambo-adopciones/animals/2-3.jpeg"
     ],
     "gender": "Macho",
     "size": "Grande",
@@ -49,7 +49,7 @@
   },
   {
     "id": 3,
-    "name": "Elsa ",
+    "name": "Elsa",
     "images": [
       "https://icalmpet.com/wp-content/uploads/iCalm-Pet-Solutions-Dog.jpg",
       "https://img.tvc-mall.com/uploads/scenes/C0009078-1.jpg",
