@@ -29,3 +29,14 @@ exports.listOrganizations = async (req, res) => {
     res.status(500).send("GET error on Organizations: " + error);
   }
 }
+
+exports.getOrganizationById = async (req, res) => {
+  // #swagger.tags = ['Organization']}
+  try {
+    const organizationId = parseInt(req.params.id);
+    const result = listOrganizations.find(organization => organization.id === organizationId);
+    res.json(result);
+  } catch (error) {
+    res.status(500).send("GET error on Organizations by Id: " + error);
+  }
+}
