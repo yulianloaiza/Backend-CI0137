@@ -12,7 +12,8 @@
     "years": 2,
     "description": "Fuimos hasta la parte sur del país para rescatar a esta hermosa chica. Una de sus piernitas traseras estaba muy dañada, por lo que la recomendación del veterinario fue amputarla para que Caty sobreviviera. Ahora, sin dolor, es mucho más feliz y más activa. Ahora Cata tiene una segunda oportunidad por una mejor vida en Territorio de Zaguates y esperamos que encuentre una familia que la ame pronto!",
     "organization": "Centro Municipal de Educación para el Cuido Animal",
-    "numberOfViews": 4
+    "numberOfViews": 4,
+    "state": "Cartago"
   },
   {
     "id": 1,
@@ -27,7 +28,8 @@
     "years": 4,
     "description": "Max es un perrito muy calmado, y reconocido por hacer amistades con los visitantes del territorio muy rápidamente. Ha estado en el territorio por tres años y se lleva muy bien con humanos y los animales del territorio. Su sonrisa y el las ganas de jugar rápidamente le dicen a la persona que es un perro inofensivo, aunque su tamaño sea grande.",
     "organization": "Animales de Asís",
-    "numberOfViews": 10
+    "numberOfViews": 10,
+    "state": "Heredia"
   },
   {
     "id": 2,
@@ -42,7 +44,8 @@
     "years": 6,
     "description": "Clifford es un perrito que le encanta jugar, ir a caminar y comer alimento y hasta verduras! Le encanta ser el centro de atención y el color del pelo lo diferencia de los otros perritos en la organización.",
     "organization": "El Refugio Hogar Animal Costa Ballena",
-    "numberOfViews": 20
+    "numberOfViews": 20,
+    "state": "Puntarenas"
   },
   {
     "id": 3,
@@ -57,7 +60,8 @@
     "years": 8,
     "description": "Woof! Soy Elsa, soy muy buena escuchando y me encanta acurrucarme. Soy un poco tímida pero muy dulce también. Puedo ser parte de tu familia?",
     "organization": "Centro Municipal de Educación para el Cuido Animal",
-    "numberOfViews": 30
+    "numberOfViews": 30,
+    "state": "Cartago"
   },
   {
     "id": 4,
@@ -72,7 +76,8 @@
     "years": 10,
     "description": "Hola, mi nombre es Tommy. Yo era perrito de calle y muy flaco cuando El Refugio me encontró. Mi anterior familia adoptiva decía esto de mí: ¡soy una alegría! Poco exigente pero sin embargo me encanta acurrucarme. Y cuido a mi familia. No pido mucho, solo quiero estar cerca y abrazarme de vez en cuando. Adoro las caricias en el vientre. Sueño con una vida discreta en la que se me permita estar en la casa todo el día y donde esté mi familia. Eso es realmente todo lo que quiero. Me encantan los visitantes y soy muy amigables con ellos. No soy autoritario. Estoy un poco demasiado entusiasmado con los gatos. Aprendo con el paso del tiempo, por ejemplo, ya no reacciono a los sonidos con los que me he familiarizado. También estoy aprendiendo a jugar bien, a veces me emociono demasiado, pero soy inteligente y estoy aprendiendo. Tengo una discapacidad leve en la que camino un poco torcido, pero todavía puedo caminar, correr y jugar. Me gusta quedarme cerca de mis humanos, así que nunca me alejo mucho, y estoy atento para ver dónde están. No me gusta mojarme. Mantengo una amplia circunferencia de la piscina y la manguera. De todos modos, soy una persona hogareña. ¿Puedo ser parte de tu familia? No puedo esperar para conocerte. Abrazos, Tommy. Tommy fue adoptado el año pasado, pero su humano era anciano y ya no podía cuidarlo. Tommy está de vuelta en nuestro refugio. Es un buen perro y merece un hogar extra especial.",
     "organization": "Animales de Asís",
-    "numberOfViews": 60
+    "numberOfViews": 60,
+    "state": "Heredia"
   },
   {
     "id": 5,
@@ -87,7 +92,8 @@
     "years": 1,
     "description": "Guau! Soy la perrita Amore. ¡Soy extra especial porque soy la más dulce del mundo! Pero, también porque tengo algunos problemas neurológicos. A veces tengo temblores y también tengo algunos problemas para caminar. Estoy muy agradecida de haber sido salvada de la tubería de alcantarillado donde me encontraron. Fue frío y aterrador estar sola. Hay algunos seres humanos maravillosos en este mundo, y ellos me rescataron, ¡gracias! Los amaré por siempre, El Refugio y las familias que me acogen y adoptan. ¡Por favor, adóptame! También estoy disponible para acogida. Necesito una familia extra especial porque yo soy extra especial. Abrazos, amore.",
     "organization": "El Refugio Hogar Animal Costa Ballena",
-    "numberOfViews": 80
+    "numberOfViews": 80,
+    "state": "Puntarenas"
   },
   {
     "id": 6,
@@ -102,7 +108,8 @@
     "years": 3,
     "description": "Bicho es uno de nuestros perros más viejos, ingresó en el año 2011 con una pata quebrada, en ese momento se le calcularon 4 años, goza de buena salud y en tantos años en el albergue solamente se le han hecho limpiezas dentales. Es un perro mediano-pequeño muy hermoso, su pelaje es largo, su problema es que no con todos los perros se lleva y ataca a los gatos, pero le encantan las personas, es bastante dulce. Esperamos que tenga la oportunidad de conocer el amor de una familia, son muchos años de espera.",
     "organization": "Centro Municipal de Educación para el Cuido Animal",
-    "numberOfViews": 200
+    "numberOfViews": 200,
+    "state": "Cartago"
   },
   {
     "id": 7,
@@ -117,7 +124,8 @@
     "years": 5,
     "description": "Marina viene de la León Xlll un lugar conflictivo y donde abandonan muchos animales, estaba en un lote vacío, una persona se le llevó para su casa pero no podía mantenerlos, y es así como Marina y sus 7 hermosos cachorros llegaron a nuestro albergue, todos los cachorros se adoptaron, solo queda ella, es mediana-grande, pelo corto pero de un color naranja muy bonito, es bastante joven, en el momento de su rescate se le calculo 1 año, a veces un poco tímida pero después está bien , se lleva bien con perros, buscamos una familia responsable y amorosa para ella.",
     "organization": "Animales de Asís",
-    "numberOfViews": 105
+    "numberOfViews": 105,
+    "state": "Heredia"
   },
   {
     "id": 8,
@@ -132,7 +140,8 @@
     "years": 7,
     "description": "Cuando nos pidieron ayuda para Apolonio, las fotos eran de un perro flaco con las uñas más largas que jamás vimos, es obvio que estaba dentro de una casa o propiedad donde no tenía que caminar, en el 2017 se le calcularon 10 años de edad, No sabemos si se perdió o lo botaron, con la uñas ya sabemos por qué estaban tan largas, para cortarlas necesitamos por lo menos 3 personas por que odia que se las corten, después de eso no tiene ningún problema, cuando llego al albergue se le dio tratamiento de erlichia. Es un perro muy bueno, le encanta que lo toquen, los cachorros son su debilidad los cuida y los defiende como si fueran de el. Apolonio es un perro grande con un corazón de cachorro, merece una buena familia.",
     "organization": "El Refugio Hogar Animal Costa Ballena",
-    "numberOfViews": 205
+    "numberOfViews": 205,
+    "state": "Puntarenas"
   },
   {
     "id": 9,
@@ -147,7 +156,8 @@
     "years": 9,
     "description": "Marjorie fue rescatada en Guadalupe, es una perrita muy linda con la mejor intuición de sus alrededores. Puede notar cuando necesitas un abrazo. Es una perrita muy calmada con un corazón muy grande.",
     "organization": "Centro Municipal de Educación para el Cuido Animal",
-    "numberOfViews": 310
+    "numberOfViews": 310,
+    "state": "Cartago"
   },
   {
     "id": 10,
@@ -162,7 +172,8 @@
     "years": 10,
     "description": "Escalibur fue recogido en Sán Nicolás de Cartago. Es un perrito muy ágil e inteligente. Le encanta ir a paseos y jugar. Le gusta mucho estar en el césped y también recibir baños en la tina. Escalibur necesita una casita, tu puedes ser el afortunado en adoptarlo!",
     "organization": "Animales de Asís",
-    "numberOfViews": 99
+    "numberOfViews": 99,
+    "state": "Heredia"
   },
   {
     "id": 11,
@@ -177,7 +188,8 @@
     "years": 1,
     "description": "Grut es una bella perrita que se encontró en San Nicolás de Cartago. Siempre está prestando atención a su entorno y le encanta jugar con otros perritos y los cuidadores del refugio. Le gusta jugar en la mañana y en la tarde le encanta dormir, más si hay lluvia! Grut está buscando una casita especial, tal ves podrías ser tú quién le de una oportunidad a una nueva vida.",
     "organization": "El Refugio Hogar Animal Costa Ballena",
-    "numberOfViews": 217
+    "numberOfViews": 217,
+    "state": "Puntarenas"
   },
   {
     "id": 12,
@@ -192,7 +204,8 @@
     "years": 2,
     "description": "Lucky es un animal hogareño y de tamaño pequeño, ideal para hogares con un espacio de jardín reducido, siempre y cuando cumpla con las condiciones mínimas.",
     "organization": "Centro Municipal de Educación para el Cuido Animal",
-    "numberOfViews": 312
+    "numberOfViews": 312,
+    "state": "Cartago"
   },
   {
     "id": 13,
@@ -207,7 +220,8 @@
     "years": 9,
     "description": "Perrita adulta y de avanzada edad con una personalidad bastante tranquila y amigable.",
     "organization": "Animales de Asís",
-    "numberOfViews": 420
+    "numberOfViews": 420,
+    "state": "Heredia"
   },
   {
     "id": 14,
@@ -222,7 +236,8 @@
     "years": 2,
     "description": "Ideal tanto para compañía como para protección del hogar. Es sumamente cariñosa y debido a su tamaño, a la vez imponente.",
     "organization": "El Refugio Hogar Animal Costa Ballena",
-    "numberOfViews": 110
+    "numberOfViews": 110,
+    "state": "Puntarenas"
   },
   {
     "id": 15,
@@ -237,7 +252,8 @@
     "years": 7,
     "description": "Perrito adorable. Le encanta jugar con las personas y salir de paseo.",
     "organization": "Centro Municipal de Educación para el Cuido Animal",
-    "numberOfViews": 800
+    "numberOfViews": 800,
+    "state": "Cartago"
   },
   {
     "id": 16,
@@ -252,7 +268,8 @@
     "years": 5,
     "description": "Perrito amante de las aventuras, ideal para personas viajeras. Le encanta salir de paseo a parques, playas, etc.",
     "organization": "Animales de Asís",
-    "numberOfViews": 710
+    "numberOfViews": 710,
+    "state": "Heredia"
   },
   {
     "id": 17,
@@ -267,7 +284,8 @@
     "years": 6,
     "description": "Chula es una compañera ideal para los niños. Cada día demuestra su cariño, protección y afecto hacia ellos.",
     "organization": "El Refugio Hogar Animal Costa Ballena",
-    "numberOfViews": 615
+    "numberOfViews": 615,
+    "state": "Puntarenas"
   },
   {
     "id": 18,
@@ -282,7 +300,8 @@
     "years": 12,
     "description": "Debido a su edad, es sumamente tranquilo. Donut es amante a los dulces.",
     "organization": "Centro Municipal de Educación para el Cuido Animal",
-    "numberOfViews": 619
+    "numberOfViews": 619,
+    "state": "Cartago"
   },
   {
     "id": 19,
@@ -297,7 +316,8 @@
     "years": 4,
     "description": "A Luna le encantan las caminatas. Debido a su edad, posee bastante energía y lo demuestra con su personalidad juguetona.",
     "organization": "Animales de Asís",
-    "numberOfViews": 400
+    "numberOfViews": 400,
+    "state": "Heredia"
   },
   {
     "id": 20,
@@ -312,7 +332,8 @@
     "years": 5,
     "description": "Kira es la compañía ideal de cualquier hogar. Le encantan los niños y convive excelente con otros animales.",
     "organization": "El Refugio Hogar Animal Costa Ballena",
-    "numberOfViews": 190
+    "numberOfViews": 190,
+    "state": "Puntarenas"
   },
   {
     "id": 21,
@@ -327,7 +348,8 @@
     "years": 3,
     "description": "Bimbira es una perrita súper graciosa y un genial acompañante de la vida diaria, haciendo reír a la familia constantemente.",
     "organization": "Centro Municipal de Educación para el Cuido Animal",
-    "numberOfViews": 419
+    "numberOfViews": 419,
+    "state": "Cartago"
   },
   {
     "id": 22,
@@ -342,7 +364,8 @@
     "years": 2,
     "description": "Gala es una perrita amante del jardín. Le encanta correr, las zonas verdes y la naturaleza.",
     "organization": "Animales de Asís",
-    "numberOfViews": 180
+    "numberOfViews": 180,
+    "state": "Heredia"
   },
   {
     "id": 23,
@@ -357,7 +380,8 @@
     "years": 6,
     "description": "Nella es una perrita encontrada en difíciles condiciones. Afortunadamente, se encuentra con un gran estado de salud y con una gratitud enorme, esperando encontrar un hogar pronto.",
     "organization": "El Refugio Hogar Animal Costa Ballena",
-    "numberOfViews": 160
+    "numberOfViews": 160,
+    "state": "Puntarenas"
   },
   {
     "id": 24,
@@ -372,7 +396,8 @@
     "years": 8,
     "description": "Debido a su edad y tamaño, Lola es sumamente hogareña y tranquila. Es una compañía excelente.",
     "organization": "Centro Municipal de Educación para el Cuido Animal",
-    "numberOfViews": 202
+    "numberOfViews": 202,
+    "state": "Cartago"
   },
   {
     "id": 25,
@@ -387,7 +412,8 @@
     "years": 9,
     "description": "Mía es una perrita sumamente leal, demostrará su cariño y afecto desde el primer día en su hogar.",
     "organization": "Animales de Asís",
-    "numberOfViews": 303
+    "numberOfViews": 303,
+    "state": "Heredia"
   },
   {
     "id": 26,
@@ -402,6 +428,7 @@
     "years": 7,
     "description": "Fiyi es un perrito tan curioso como su nombre. Cada día sorprende con sus ocurrencias a los miembros de la familia.",
     "organization": "El Refugio Hogar Animal Costa Ballena",
-    "numberOfViews": 257
+    "numberOfViews": 257,
+    "state": "Puntarenas"
   }
 ]

@@ -9,5 +9,6 @@ exports.createAnimalSchema = Joi.object({
     years: Joi.number().required(),
     description: Joi.string().required(),
     organization: Joi.string().required(),
-    numberOfViews: Joi.number().required()
+    numberOfViews: Joi.number().required(),
+    state: Joi.string().required()
 });

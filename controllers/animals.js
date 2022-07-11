@@ -29,3 +29,14 @@ exports.createAnimal = async (req, res) => {
       res.status(500).send("GET error on Animals: " + error);
     }
   }
+
+  exports.getAnimalById = async (req, res) => {
+    // #swagger.tags = ['Animal']}
+    try {
+      const animalId = parseInt(req.params.id);
+      const result = listAnimals.find(animal => animal.id === animalId);
+      res.json(result);
+    } catch (error) {
+      res.status(500).send("GET error on Animals by Id: " + error);
+    }
+  }
